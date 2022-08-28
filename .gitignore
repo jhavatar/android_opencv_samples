@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/15-puzzle/build/
+/face-detection/.cxx/
+/face-detection/build/
+/image-manipulations/build/
+/tutorial-2-mixedprocessing/.cxx/
+/tutorial-2-mixedprocessing/build/

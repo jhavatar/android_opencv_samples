@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv_samples.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv_samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/15-puzzle/opencv_samples.15-puzzle.iml" filepath="$PROJECT_DIR$/.idea/modules/15-puzzle/opencv_samples.15-puzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/15-puzzle/opencv_samples.15-puzzle.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/15-puzzle/opencv_samples.15-puzzle.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/15-puzzle/opencv_samples.15-puzzle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/15-puzzle/opencv_samples.15-puzzle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/15-puzzle/opencv_samples.15-puzzle.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/15-puzzle/opencv_samples.15-puzzle.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera-calibration/opencv_samples.camera-calibration.iml" filepath="$PROJECT_DIR$/.idea/modules/camera-calibration/opencv_samples.camera-calibration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera-calibration/opencv_samples.camera-calibration.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/camera-calibration/opencv_samples.camera-calibration.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera-calibration/opencv_samples.camera-calibration.main.iml" filepath="$PROJECT_DIR$/.idea/modules/camera-calibration/opencv_samples.camera-calibration.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera-calibration/opencv_samples.camera-calibration.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/camera-calibration/opencv_samples.camera-calibration.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/color-blob-detection/opencv_samples.color-blob-detection.iml" filepath="$PROJECT_DIR$/.idea/modules/color-blob-detection/opencv_samples.color-blob-detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/color-blob-detection/opencv_samples.color-blob-detection.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/color-blob-detection/opencv_samples.color-blob-detection.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/color-blob-detection/opencv_samples.color-blob-detection.main.iml" filepath="$PROJECT_DIR$/.idea/modules/color-blob-detection/opencv_samples.color-blob-detection.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/color-blob-detection/opencv_samples.color-blob-detection.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/color-blob-detection/opencv_samples.color-blob-detection.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/face-detection/opencv_samples.face-detection.iml" filepath="$PROJECT_DIR$/.idea/modules/face-detection/opencv_samples.face-detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/face-detection/opencv_samples.face-detection.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/face-detection/opencv_samples.face-detection.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/face-detection/opencv_samples.face-detection.main.iml" filepath="$PROJECT_DIR$/.idea/modules/face-detection/opencv_samples.face-detection.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/face-detection/opencv_samples.face-detection.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/face-detection/opencv_samples.face-detection.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/image-manipulations/opencv_samples.image-manipulations.iml" filepath="$PROJECT_DIR$/.idea/modules/image-manipulations/opencv_samples.image-manipulations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/image-manipulations/opencv_samples.image-manipulations.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/image-manipulations/opencv_samples.image-manipulations.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/image-manipulations/opencv_samples.image-manipulations.main.iml" filepath="$PROJECT_DIR$/.idea/modules/image-manipulations/opencv_samples.image-manipulations.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/image-manipulations/opencv_samples.image-manipulations.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/image-manipulations/opencv_samples.image-manipulations.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1176306475/opencv_samples.opencv.iml" filepath="$PROJECT_DIR$/.idea/modules/-1176306475/opencv_samples.opencv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1176306475/opencv_samples.opencv.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1176306475/opencv_samples.opencv.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1176306475/opencv_samples.opencv.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1176306475/opencv_samples.opencv.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1176306475/opencv_samples.opencv.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1176306475/opencv_samples.opencv.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-1-camerapreview/opencv_samples.tutorial-1-camerapreview.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-1-camerapreview/opencv_samples.tutorial-1-camerapreview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-1-camerapreview/opencv_samples.tutorial-1-camerapreview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-1-camerapreview/opencv_samples.tutorial-1-camerapreview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-1-camerapreview/opencv_samples.tutorial-1-camerapreview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-1-camerapreview/opencv_samples.tutorial-1-camerapreview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-1-camerapreview/opencv_samples.tutorial-1-camerapreview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-1-camerapreview/opencv_samples.tutorial-1-camerapreview.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-2-mixedprocessing/opencv_samples.tutorial-2-mixedprocessing.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-2-mixedprocessing/opencv_samples.tutorial-2-mixedprocessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-2-mixedprocessing/opencv_samples.tutorial-2-mixedprocessing.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-2-mixedprocessing/opencv_samples.tutorial-2-mixedprocessing.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-2-mixedprocessing/opencv_samples.tutorial-2-mixedprocessing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-2-mixedprocessing/opencv_samples.tutorial-2-mixedprocessing.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-2-mixedprocessing/opencv_samples.tutorial-2-mixedprocessing.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-2-mixedprocessing/opencv_samples.tutorial-2-mixedprocessing.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-3-cameracontrol/opencv_samples.tutorial-3-cameracontrol.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-3-cameracontrol/opencv_samples.tutorial-3-cameracontrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-3-cameracontrol/opencv_samples.tutorial-3-cameracontrol.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-3-cameracontrol/opencv_samples.tutorial-3-cameracontrol.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-3-cameracontrol/opencv_samples.tutorial-3-cameracontrol.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-3-cameracontrol/opencv_samples.tutorial-3-cameracontrol.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial-3-cameracontrol/opencv_samples.tutorial-3-cameracontrol.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial-3-cameracontrol/opencv_samples.tutorial-3-cameracontrol.unitTest.iml" />
+    </modules>
+  </component>
+</project>
